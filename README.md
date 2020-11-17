@@ -1,5 +1,6 @@
 #  LAMP stack built with Docker Compose
 
+This is a fork of the docker-compose-lamp repository to be used within CAS IT.
   
 
 ![Landing Page](https://preview.ibb.co/gOTa0y/LAMP_STACK.png)
